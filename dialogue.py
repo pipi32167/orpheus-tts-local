@@ -1,5 +1,6 @@
 import argparse
 from datetime import datetime
+from math import ceil, log10
 import os
 from pathlib import Path
 import sys
@@ -48,7 +49,7 @@ def generate_dialogue(prompt, temperature, top_p, repetition_penalty, output_fil
     os.makedirs(tmpdir, exist_ok=True)
     for i, (speaker, speech) in enumerate(dialogue):
 
-        padding_width = len(dialogue)
+        padding_width = ceil(log10(len(dialogue)))
 
         output_tmpfile = f'{tmpdir}/{i:0{padding_width}}.wav'
         if not os.path.exists(output_tmpfile):
