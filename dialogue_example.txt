@@ -1,0 +1,65 @@
+leah: Good morning, Leo. Please, come in and have a seat. So, what’s been going on with you today?
+
+leo: Hi, Doctor Leah. Well, I’ve been feeling unwell lately. I was actually hoping to make an appointment with the doctor, please, but I’m glad I could see you now.
+
+leah: No trouble at all, I’m here for you. Can you tell me more about how you’ve been feeling?
+
+leo: Sure. I have a sore throat and a cough <cough>, and I think I have a fever too.
+
+leah: Hmm, I see. How long have you had these symptoms?
+
+leo: Uh, about three days now. Oh, and yesterday I twisted my ankle, and it hurts quite a bit.
+
+leah: <sigh> Ouch, that sounds rough. Let’s check that ankle in a moment. Any other symptoms bothering you?
+
+leo: Yeah, I’ve had a headache for a few days, and honestly, I think I might have the flu.
+
+leah: That’s a good guess—it’s been going around. Let’s start by taking your temperature.  
+
+leah: Yep, you’ve got a fever, 101 degrees. I’ll take a quick look at your throat too. 
+
+leah: It’s pretty red. Now, about that ankle—can you tell me how it happened?
+
+leo: I was jogging, stepped on something weird, and twisted it. Hurts when I walk.
+
+leah: <groan> I can imagine that’s painful. It’s swollen—does it hurt if I press here?
+
+leo: <groan> Yes, a lot!
+
+leah: Okay, looks like a sprain, but we’ll need an X-ray to be sure. For now, I’ll wrap it up. And for your flu symptoms, I think you’ll need a prescription for your medication. Any allergies I should know about?
+
+leo: No, not that I know of. I do need a prescription for my medication, though.
+
+leah: Got it. I’ll write one up for something to help with the fever, pain, and cough. You can pick it up downstairs.
+
+leo: Is there a pharmacy nearby?
+
+leah: Yep, right on the first floor of this building.
+
+leo: Oh, great. How much will this medication cost?
+
+leah: Probably around $20, but it depends on your insurance. Check with the pharmacist.
+
+leo: Okay, thanks. And do I need to take any tests?
+
+leah: For the flu, we could do a test, but your symptoms are pretty clear, so we can skip it unless you want to be certain. For the ankle, though, an X-ray’s a must to rule out a fracture.
+
+leo: Alright, let’s do the X-ray then.
+
+leah: I’ll set that up. Anything else on your mind?
+
+leo: Yeah, can you recommend any over-the-counter remedies?
+
+leah: Sure thing. For the fever and headache, try acetaminophen or ibuprofen. For the cough, a suppressant like dextromethorphan works well. Oh, and keep hydrated—lots of water!
+
+leo: Thanks. What are the side effects of this medicine you’re prescribing?
+
+leah: Good question. It’s usually fine, but you might feel drowsy or get an upset stomach. If anything odd happens, like a rash, stop taking it and call me.
+
+leo: Got it. When should I return for a follow-up appointment?
+
+leah: If the flu symptoms don’t improve in a week—or get worse—come back sooner. For the ankle, once we get the X-ray results, we’ll plan a follow-up in about two weeks if it’s just a sprain.
+
+leo: That makes sense. Thank you for your help, Doctor Leah.
+
+leah: You’re welcome, Leo. Take care and feel better soon!
