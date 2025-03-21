@@ -11,7 +11,7 @@ A lightweight client for running [Orpheus TTS](https://huggingface.co/canopylabs
 
 ## Quick Setup
 
-1. Install [LM Studio](https://lmstudio.ai/) 
+1. Install [LM Studio](https://lmstudio.ai/)
 2. Download the [Orpheus TTS model (orpheus-3b-0.1-ft-q4_k_m.gguf)](https://huggingface.co/isaiahbjork/orpheus-3b-0.1-ft-Q4_K_M-GGUF) in LM Studio
 3. Load the Orpheus model in LM Studio
 4. Start the local server in LM Studio (default: http://127.0.0.1:1234)
@@ -27,8 +27,6 @@ A lightweight client for running [Orpheus TTS](https://huggingface.co/canopylabs
    ```
 
 ## Usage
-
-
 
 ### Monologue
 
@@ -57,7 +55,7 @@ python dialogue.py --input-file ./dialogue_example.txt
 #### Options
 
 - `--input-text`: The text to convert to speech
-- `--input-text`: The text file to convert to speech
+- `--input-file`: The text file to convert to speech
 - `--output`: Output WAV file path (default: auto-generated filename)
 - `--temperature`: Temperature for generation (default: 0.6)
 - `--top_p`: Top-p sampling parameter (default: 0.9)
@@ -75,7 +73,9 @@ python dialogue.py --input-file ./dialogue_example.txt
 - zoe
 
 ## Emotion
+
 You can add emotion to the speech by adding the following tags:
+
 ```xml
 <giggle>
 <laugh>
@@ -91,4 +91,3 @@ You can add emotion to the speech by adding the following tags:
 ## License
 
 Apache 2.0
-
