@@ -1,15 +1,11 @@
 import argparse
-from datetime import datetime
 from math import ceil, log10
 import os
 from pathlib import Path
 import sys
 import time
 from gguf_orpheus import generate_speech_from_api, TEMPERATURE, TOP_P, REPETITION_PENALTY, OUTPUT_DIR
-
 import wave
-import audioop
-import numpy as np
 
 
 def merge_wave_files(wave_files, output_file):
